@@ -12,8 +12,7 @@ body {
     align-items: center;
     justify-content: center;
     background: #2189ca;
-    /*#06283D*/
-    background-image: url("./images/backgroud.jpg");
+    background-image: url("./images/bg.jpg");
 }
 
 .container {
